@@ -2,7 +2,7 @@
 
 CashArena is a dynamic cryptocurrency gaming platform that delivers an immersive, socially-connected gaming experience with advanced lobby management and real-time interaction tools.
 
-![CashArena](https://example.com/logo.png) <!-- Add your logo image URL here -->
+![CashArena](https://imgur.com/Dm2IMrY)
 
 ## 🎮 Features
 
