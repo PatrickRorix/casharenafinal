@@ -109,7 +109,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Contributors
 
-- [Your Name](https://github.com/your-username)
+- Patrick(https://github.com/PatrickRorix)
 
 ## 🙏 Acknowledgements
 
