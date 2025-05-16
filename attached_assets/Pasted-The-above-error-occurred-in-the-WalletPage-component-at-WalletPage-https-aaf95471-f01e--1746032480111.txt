@@ -1,0 +1,18 @@
+The above error occurred in the <WalletPage> component:
+
+    at WalletPage (https://aaf95471-f01e-4d41-9db7-d60ba67ee473-00-2irz1llyaxetj.worf.replit.dev/src/pages/wallet.tsx?t=1746032355572:74:20)
+    at Route (https://aaf95471-f01e-4d41-9db7-d60ba67ee473-00-2irz1llyaxetj.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=e6c03b22:323:16)
+    at ProtectedRoute (https://aaf95471-f01e-4d41-9db7-d60ba67ee473-00-2irz1llyaxetj.worf.replit.dev/src/lib/protected-route.tsx:22:3)
+    at Switch (https://aaf95471-f01e-4d41-9db7-d60ba67ee473-00-2irz1llyaxetj.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=e6c03b22:379:17)
+    at Router
+    at Provider (https://aaf95471-f01e-4d41-9db7-d60ba67ee473-00-2irz1llyaxetj.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-OXZDJRWN.js?v=e6c03b22:38:15)
+    at TooltipProvider (https://aaf95471-f01e-4d41-9db7-d60ba67ee473-00-2irz1llyaxetj.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=e6c03b22:64:5)
+    at OnboardingProvider (https://aaf95471-f01e-4d41-9db7-d60ba67ee473-00-2irz1llyaxetj.worf.replit.dev/src/hooks/use-onboarding.tsx:23:38)
+    at NotificationsProvider (https://aaf95471-f01e-4d41-9db7-d60ba67ee473-00-2irz1llyaxetj.worf.replit.dev/src/hooks/use-notifications.tsx:24:41)
+    at AuthProvider (https://aaf95471-f01e-4d41-9db7-d60ba67ee473-00-2irz1llyaxetj.worf.replit.dev/src/hooks/use-auth.tsx:26:32)
+    at QueryClientProvider (https://aaf95471-f01e-4d41-9db7-d60ba67ee473-00-2irz1llyaxetj.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=e6c03b22:2805:3)
+    at App
+    at QueryClientProvider (https://aaf95471-f01e-4d41-9db7-d60ba67ee473-00-2irz1llyaxetj.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=e6c03b22:2805:3)
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries.
