@@ -16,7 +16,7 @@ CashArena is a dynamic cryptocurrency gaming platform that delivers an immersive
 - **User Profiles**: Track your stats, match history, and earnings
 
  ![Dashboard](https://i.imgur.com/A67EvpY.png)!
- ![Wallet](https://prnt.sc/OJ9x8IgJvDCA)
+ ![Wallet](https://i.imgur.com/9oysfwg.png)
 
 ## 🚀 Technology Stack
 
