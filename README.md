@@ -2,7 +2,7 @@
 
 CashArena is a dynamic cryptocurrency gaming platform that delivers an immersive, socially-connected gaming experience with advanced lobby management and real-time interaction tools.
 
-![CashArena](https://imgur.com/Dm2IMrY)
+![CashArena](https://i.imgur.com/Yw8uU1r.png) <!-- Add your logo image URL here -->
 
 ## 🎮 Features
 
@@ -14,6 +14,8 @@ CashArena is a dynamic cryptocurrency gaming platform that delivers an immersive
 - **Social Features**: Add friends, chat in real-time, and build your gaming network
 - **Match Verification**: Submit and verify match results with an admin review system
 - **User Profiles**: Track your stats, match history, and earnings
+
+ ![Dashboard](https://i.imgur.com/A67EvpY.png)!
 
 ## 🚀 Technology Stack
 
@@ -45,7 +47,7 @@ CashArena is a dynamic cryptocurrency gaming platform that delivers an immersive
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/casharena.git
+   git clone https://github.com/PatrickRorix/casharena.git
    cd casharena
    ```
 
@@ -109,11 +111,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Contributors
 
-- Patrick(https://github.com/PatrickRorix)
+- [Patrick Rorix](https://github.com/PatrickRorix)
 
 ## 🙏 Acknowledgements
 
 - [Stripe](https://stripe.com/) for payment processing
 - [shadcn/ui](https://ui.shadcn.com/) for beautiful UI components
-- [TanStack Query](https://tanstack.com/query) for data fetching"# casharenafinal" 
-# casharenafinal
+- [TanStack Query](https://tanstack.com/query) for data fetching
